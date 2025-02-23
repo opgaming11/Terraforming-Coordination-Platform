@@ -7,3 +7,5 @@ Q
 !tests/resource-allocation.test.ts,8/5/85db2f25ff7429c4a1fa3d43237841ead7e2e0ac
 P
  contracts/progress-tracking.clar,d/7/d7a757655a1978a3aa366b84b916042f9f227172
+O
+tests/progress-tracking.test.ts,3/9/39b4a12093ba89526d9edf86d559ebf1b5ebe41d
